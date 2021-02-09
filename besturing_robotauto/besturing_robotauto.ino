@@ -3,7 +3,7 @@
 #define mot1B 26
 #define mot2F 32
 #define mot2B 33
-#define mot3F 22
+#define mot3F 27
 #define mot3B 23
 #define mot4F 17
 #define mot4B 16
